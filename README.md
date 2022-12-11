@@ -1,2 +1,2 @@
 # MyefolioWeb
- My Portfolip website using reat native
+ My Portfolip website using react native
